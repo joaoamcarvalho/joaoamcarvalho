@@ -2,7 +2,7 @@
 
 I work as a research assistant in machine learning and robotics at [IAS - TU Darmstadt](https://www.ias.informatik.tu-darmstadt.de/Main/LandingPage?from=Main.HomePage).
 - 🎓 I just finished my Ph.D. from [IAS - TU Darmstadt](https://www.ias.informatik.tu-darmstadt.de/Main/LandingPage?from=Main.HomePage).
-- 🔭 I work on embedding robots with algorithms to make them more capable to solve new tasks in the real world.
+- 🔭 I work on embedding robots with learning algorithms to make them more capable to solve new tasks in the real world.
 - 📚 My research interests lie in machine learning and reinforcement learning applied to robot manipulation.
 
 
