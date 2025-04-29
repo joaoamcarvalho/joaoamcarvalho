@@ -1,6 +1,6 @@
 ### Hi, I'm João
 
-I work as a research assistant in machine learning and robotics at [IAS - TU Darmstadt](https://www.ias.informatik.tu-darmstadt.de/Main/LandingPage?from=Main.HomePage).
+I work as a postdoctoral researcher in machine learning and robotics at [IAS - TU Darmstadt](https://www.ias.informatik.tu-darmstadt.de/Main/LandingPage?from=Main.HomePage).
 - 🎓 I finished my Ph.D. from [IAS - TU Darmstadt](https://www.ias.informatik.tu-darmstadt.de/Main/LandingPage?from=Main.HomePage).
 - 🔭 I work on embedding robots with learning algorithms to make them more capable to solve new tasks in the real world.
 - 📚 My research interests lie in machine learning and reinforcement learning applied to robot manipulation.
