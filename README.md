@@ -1,7 +1,7 @@
 ### Hi!
 
 I'm João.
-I work as a Research Scientist in machine learning and robotics at [SAIROL, DFKI](https://www.dfki.de/en/web/research/research-departments/systems-ai-for-robot-learning).
+I work as a Research Scientist in machine learning and robotics at [SAIROL - DFKI](https://www.dfki.de/en/web/research/research-departments/systems-ai-for-robot-learning).
 - 🎓 I got my Ph.D. in robot learning from [IAS - TU Darmstadt](https://www.ias.informatik.tu-darmstadt.de/Main/LandingPage?from=Main.HomePage), where I also worked as a postdoctoral researcher.
 - 🔭 I work on embedding robots with learning algorithms to make them more capable of solving new tasks in the real world.
 - 📚 My research interests lie in machine learning, reinforcement learning, and robot manipulation.
